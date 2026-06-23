@@ -1561,3 +1561,17 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 Landing a job does not solely depend on academic brilliance, but also on several factors, like organizing CV according to the job specifications, interview performance, and communication skills. After my experimentation phases were complete and I focused on actually finding a job, I was skeptical about how my plans are going to roll out. Fortunately, I had to wait only for approximately 1.5 months. Planning the phases according to a specific thought and seeing them get implemented gives a sense of surreal satisfaction. And now, as I have landed a job, I wish to continue in the company for a certain period while being serious, rather than being experimental.
 
 Looking forward!
+
+
+## FAQs
+* How many CV versions were there?
+- Around 150+. They will be posted on a convenient time in this repository.
+
+* What is the big picture behind this, i.e., why so much planning?
+- I want to pursue my higher studies abroad. Before that, I wanted to make sure that everything is in a proper alignment.
+
+* Did you take any preparation for govt. jobs?
+- No. I actually applied for the govt. jobs due to tackle the pressure coming from my family, so that they could not intervene in my plans.
+
+* What was your strategy regarding private banking jobs, like MTO?
+- MTO position in the private banks are basically a combination of IBA study preparation and communication skill. My foundation in basic english and math was good from my childhood, so I did not face any difficulty while preparing for the preliminary exams. I had to focus only on presenting myself to the recruiters, that's it!
