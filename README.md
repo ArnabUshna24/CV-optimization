@@ -62,32 +62,32 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 1 </td>
     <td align="left"> Accepted </td>
-    <td align="center"> CV shortlisted </td>
+    <td align="left"> CV shortlisted </td>
   </tr>
   <tr>
     <td align="center"> 2 </td>
     <td align="left"> Rejected </td>
-    <td align="center"> CV not shortlisted, confirmed through personal network </td>
+    <td align="left"> CV not shortlisted, confirmed through personal network </td>
   </tr>
   <tr>
     <td align="center"> 3 </td>
     <td align="left"> OK </td>
-    <td align="center"> CV evaluated, but not in a shortlisting manner </td>
+    <td align="left"> CV evaluated, but not in a shortlisting manner </td>
   </tr>
   <tr>
     <td align="center"> 4 </td>
     <td align="left"> Pending </td>
-    <td align="center"> No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
+    <td align="left"> No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
   </tr>
   <tr>
     <td align="center"> 5 </td>
     <td align="left"> No updates </td>
-    <td align="center"> No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
+    <td align="left"> No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
   </tr>
   <tr>
     <td align="center"> 6 </td>
     <td align="left"> N/A </td>
-    <td align="center"> Contingencies </td>
+    <td align="left"> Contingencies </td>
   </tr>
 </table>
   
