@@ -1564,14 +1564,14 @@ Looking forward!
 
 
 ## FAQs
-* How many CV versions were there?
+Q. How many CV versions were there?
 - Around 150+. They will be posted on a convenient time in this repository.
 
-* What is the big picture behind this, i.e., why so much planning?
+Q. What is the big picture behind this, i.e., why so much planning?
 - I want to pursue my higher studies abroad. Before that, I wanted to make sure that everything is in a proper alignment.
 
-* Did you take any preparation for govt. jobs?
+Q. Did you take any preparation for govt. jobs?
 - No. I actually applied for the govt. jobs due to tackle the pressure coming from my family, so that they could not intervene in my plans.
 
-* What was your strategy regarding private banking jobs, like MTO?
+Q. What was your strategy regarding private banking jobs, like MTO?
 - MTO position in the private banks are basically a combination of IBA study preparation and communication skill. My foundation in basic english and math was good from my childhood, so I did not face any difficulty while preparing for the preliminary exams. I had to focus only on presenting myself to the recruiters, that's it!
