@@ -1545,7 +1545,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
 </div>
 
-## Key Takeways
+## Key Takeaways
 * <strong> Phase-wise Performance: </strong> Phase 2 stands out as the lowest point with only a 4.3% shortlist rate across 23 applications. Phase 3 bounced back strongly to 38.4%, which reflects a shift in strategy, sector targeting, and CV refinement.
   
 * <strong> Application Medium: </strong> The most counterintuitive finding is that LinkedIn, which is treated as the "professional" platform, had the lowest shortlist rate at just 9.4% despite being the second most used channel (39 applications). Job Circular app and Facebook both significantly outperformed it.
