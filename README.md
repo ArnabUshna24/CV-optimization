@@ -4,6 +4,12 @@
 This is basically a summary of how I optimized my CV and tailored my information for specific jobs based on previous application outcomes and updates. The journey included insightful experiences involving both acceptances and rejections, as well as cases with no follow-up. Overall, it helped me shape my thought process for structuring my CV before applying to roles aligned with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
 
 
+## Self-positioning
+Throughout my academic journey upto graduation (2005-2024), I was active in multiple areas, like research, co-curricular and extra-curricular activities, and voluntary works, indicating that I had a prolific profile. So, while creating CVs, the issue that I faced was to adjust things on the basis of the requirements for the position that I was applying for, not the lack of contents that I should put in my CV. Basically, I had everything but I needed to organize them in a concise manner for a successful CV shortlisting.
+
+
+
+
 ## CV/Resume/Information Drop Status
 
 <p><strong>Table 1:</strong> Phase Classification </p>
@@ -46,8 +52,49 @@ This is basically a summary of how I optimized my CV and tailored my information
 </table>
   
 
+<p><strong>Table 2:</strong> Status Classification </p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th align="center"> SI No. </th>
+    <th align="center"> Status </th>
+    <th align="center"> Description </th>
+  </tr>
+  <tr>
+    <td align="center"> 1 </td>
+    <td align="left"> Accepted </td>
+    <td align="center"> CV shortlisted </td>
+  </tr>
+  <tr>
+    <td align="center"> 2 </td>
+    <td align="left"> Rejected </td>
+    <td align="center"> CV not shortlisted, confirmed through personal network </td>
+  </tr>
+  <tr>
+    <td align="center"> 3 </td>
+    <td align="left"> OK </td>
+    <td align="center"> CV evaluated, but not in a shortlisting manner </td>
+  </tr>
+  <tr>
+    <td align="center"> 4 </td>
+    <td align="left"> Pending </td>
+    <td align="center"> No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
+  </tr>
+  <tr>
+    <td align="center"> 5 </td>
+    <td align="left"> No updates </td>
+    <td align="center"> No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
+  </tr>
+  <tr>
+    <td align="center"> 6 </td>
+    <td align="left"> N/A </td>
+    <td align="center"> Contingencies </td>
+  </tr>
+</table>
+  
 
-<p><strong>Table 2:</strong> Phase-1 (Apr 2019 - Jun 2024) </p>
+
+
+<p><strong>Table 3:</strong> Phase-1 (Apr 2019 - Jun 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -260,7 +307,7 @@ This is basically a summary of how I optimized my CV and tailored my information
 
 
 
-<p><strong>Table 3:</strong> Phase-2 (Jul 2024 - Nov 2024) </p>
+<p><strong>Table 4:</strong> Phase-2 (Jul 2024 - Nov 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -481,7 +528,7 @@ This is basically a summary of how I optimized my CV and tailored my information
 </table>
 
 
-<p><strong>Table 4:</strong> Phase-3 (Nov 2024 - Mar 2026) </p>
+<p><strong>Table 5:</strong> Phase-3 (Nov 2024 - Mar 2026) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -1278,7 +1325,7 @@ This is basically a summary of how I optimized my CV and tailored my information
 </table>
 
 
-<p><strong>Table 5:</strong> Phase-4 (Apr 2026 - May 2026) </p>
+<p><strong>Table 6:</strong> Phase-4 (Apr 2026 - May 2026) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -1295,7 +1342,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> CAD Engineer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left">  </td>
   </tr>
   <tr>
@@ -1304,7 +1351,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Assistant Director (AD) </td>
     <td align="center"> Facebook </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left"> </td>
   </tr>
   <tr>
@@ -1313,7 +1360,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Assistant Consultant </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left"> </td>
   </tr>
   <tr>
@@ -1322,7 +1369,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Environmental Engineer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left"> </td>
   </tr>
   <tr>
@@ -1331,7 +1378,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Water System Engineer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left"> </td>
   </tr>
   <tr>
@@ -1340,7 +1387,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Junior Civil and Environmental Engineer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left"> </td>
   </tr>
   <tr>
@@ -1358,7 +1405,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left">  </td>
   </tr>
   <tr>
@@ -1367,7 +1414,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Trainee Officer </td>
     <td align="center"> Bdrecruit </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left">  </td>
   </tr>
   <tr>
@@ -1376,7 +1423,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Management Trainee (MT) </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left"> </td>
   </tr>
   <tr>
@@ -1394,7 +1441,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Quality Control (QC) Engineer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> May 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left">  </td>
   </tr>
    <tr>
@@ -1403,7 +1450,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Civil Engineer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> May 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left">  </td>
   </tr>
   </tr>
@@ -1413,7 +1460,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Assistant Officer (General) </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> May 2026 </td>
-    <td align="center"> (Pending) </td>
+    <td align="center"> Pending </td>
     <td align="left">  </td>
   </tr>
 </table>
@@ -1422,7 +1469,7 @@ This is basically a summary of how I optimized my CV and tailored my information
 ## Personal Analysis
 Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here is the detailed breakdown:
 
-<p><strong>Table 6:</strong> Company/Organization Categorization </p>
+<p><strong>Table 7:</strong> Company/Organization Categorization </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -1457,7 +1504,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 </table>
 
 
-<p><strong>Table 7:</strong> Position Categorization </p>
+<p><strong>Table 8:</strong> Position Categorization </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
