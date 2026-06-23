@@ -1555,3 +1555,9 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 * <strong> Position Type: </strong> Government employee roles showed an 84.6% shortlist rate for the same reason. Research roles were surprisingly low at 7.7% despite the proper CV positioning, which is worth investigating.
   
 * <strong> "No Response" Rate: </strong> More than a third of all applications (35.6%) resulted in silence, indicating a systemic issue in Bangladesh's job market.
+
+
+## Realization
+Landing a job does not solely depend on academic brilliance, but also on several factors, like organizing CV according to the job specifications, interview performance, and communication skills. After my experimentation phases were complete and I focused on actually finding a job, I was skeptical about how my plans are going to roll out. Fortunately, I had to wait only for approximately 1.5 months. Planning the phases according to a specific thought and seeing them get implemented gives a sense of surreal satisfaction. And now, as I have landed a job, I wish to continue in the company for a certain period while being serious, rather than being experimental.
+
+Looking forward!
