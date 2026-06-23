@@ -1431,27 +1431,27 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   </tr>
   <tr>
     <td align="center"> 1 </td>
-    <td align="center"> Academic </td>
+    <td align="left"> Academic </td>
     <td align="left"> University, Institute </td>
   </tr>
   <tr>
     <td align="center"> 2 </td>
-    <td align="center"> Research </td>
+    <td align="left"> Research </td>
     <td align="left"> University, Institute, Startup, Personal </td>
   </tr>
   <tr>
     <td align="center"> 3 </td>
-    <td align="center"> Technical </td>
+    <td align="left"> Technical </td>
     <td align="left"> Engineering Firm, Consultancy Firm, MNC (Civil), MNC (Tech) </td>
   </tr>
   <tr>
     <td align="center"> 4 </td>
-    <td align="center"> Non-technical </td>
+    <td align="left"> Non-technical </td>
     <td align="left"> MNC (Tech), MNC (Non-tech), Private Company, Bank, Institute (Finance) </td>
   </tr>
   <tr>
     <td align="center"> 5 </td>
-    <td align="center"> Others </td>
+    <td align="left"> Others </td>
     <td align="left"> Govt. Organization, Private Company, NGO, IGO, INGO </td>
   </tr>
 </table>
@@ -1466,27 +1466,27 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   </tr>
   <tr>
     <td align="center"> 1 </td>
-    <td align="center"> Faculty </td>
+    <td align="left"> Faculty </td>
     <td align="left"> Adjunct/Part-time/Contractual Lecturer </td>
   </tr>
   <tr>
     <td align="center"> 2 </td>
-    <td align="center"> Research </td>
+    <td align="left"> Research </td>
     <td align="left"> Research Assistant (RA), Research Associate, Research Intern, Research Enumerator, Research Officer </td>
   </tr>
   <tr>
     <td align="center"> 3 </td>
-    <td align="center"> Technical </td>
+    <td align="left"> Technical </td>
     <td align="left"> Engineer, Consultant, Intern </td>
   </tr>
   <tr>
     <td align="center"> 4 </td>
-    <td align="center"> Non-technical </td>
+    <td align="left"> Non-technical </td>
     <td align="left"> Analyst, Trainee </td>
   </tr>
   <tr>
     <td align="center"> 5 </td>
-    <td align="center"> Others </td>
+    <td align="left"> Others </td>
     <td align="left"> Govt. Employee, Extern </td>
   </tr>
 </table>
