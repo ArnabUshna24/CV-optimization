@@ -798,7 +798,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> I was actually selected for a different role, 'Quality Assurance Operator – RCM (Submission Integrity)', after they went going through my CV. They initially wanted to take a short online SQL assessment on a specific date, but I mailed them for rescheduling the date. They, kind of, ghosted me for months. Later in Oct 2025, they mailed me and gave me a project to complete, along with my video CV. I completed the task, but I did not hear from them. So, I guess, I was not selected. </td>
+    <td align="left"> I was actually selected for a different role, 'Quality Assurance Operator – RCM (Submission Integrity)', after they went through my CV. They initially wanted to take a short online SQL assessment on a specific date, but I mailed them for rescheduling the date. They, kind of, ghosted me for months. Later in Oct 2025, they mailed me and gave me a project to complete, along with my video CV. I completed the task, but I did not hear from them. So, I guess, I was not selected. </td>
   </tr>
   <tr>
     <td align="center"> 30 </td>
