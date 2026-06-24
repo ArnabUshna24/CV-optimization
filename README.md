@@ -179,7 +179,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 9 </td>
-    <td align="left"> LafargeHolcim Bangladesh Ltd. </td>
+    <td align="left"> LafargeHolcim Bangladesh Ltd. (LHBL) </td>
     <td align="center"> - </td>
     <td align="center"> Job fair </td>
     <td align="center"> Feb 2023 </td>
@@ -206,7 +206,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 12 </td>
-    <td align="left"> LafargeHolcim Bangladesh Ltd. </td>
+    <td align="left"> LafargeHolcim Bangladesh Ltd. (LHBL) </td>
     <td align="center"> Trainee Engineer </td>
     <td align="center"> Facebook </td>
     <td align="center"> Jan 2024 </td>
@@ -338,7 +338,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 3 </td>
-    <td align="left"> Technovative Solutions (TVS) Ltd. </td>
+    <td align="left"> Technovative Solutions Ltd. (TVS) </td>
     <td align="center"> Junior Environmental Engineer </td>
     <td align="center"> Messenger </td>
     <td align="center"> Jul 2024 </td>
