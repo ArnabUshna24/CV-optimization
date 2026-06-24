@@ -577,7 +577,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 5 </td>
-    <td align="left"> Sheltech Pvt. Ltd. </td>
+    <td align="left"> Sheltech Private Ltd. </td>
     <td align="center"> Data Analyst/Researcher (Research, Development and Compliance) </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
