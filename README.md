@@ -320,7 +320,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 1 </td>
-    <td align="left"> Technovative Solutions (TVS) Ltd. </td>
+    <td align="left"> Technovative Solutions Ltd. (TVS) </td>
     <td align="center"> Junior Civil Engineer </td>
     <td align="center"> Messenger </td>
     <td align="center"> Jul 2024 </td>
@@ -604,7 +604,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 8 </td>
-    <td align="left"> Technovative Solutions Ltd. </td>
+    <td align="left"> Technovative Solutions Ltd. (TVS) </td>
     <td align="center"> Assistant Engineer </td>
     <td align="center"> Facebook </td>
     <td align="center"> Dec 2024 </td>
