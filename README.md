@@ -243,7 +243,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 16 </td>
     <td align="left"> Tetra </td>
-    <td align="center"> Research and Insight Intern </td>
+    <td align="center"> Intern - Research and Insight </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
     <td align="center"> Rejected </td>
@@ -288,7 +288,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 21 </td>
     <td align="left"> National Geographic Society & The Nature Conservancy </td>
-    <td align="center"> Extern (Marine & Community Conservation) </td>
+    <td align="center"> Extern - Marine and Community Conservation </td>
     <td align="center"> Facebook </td>
     <td align="center"> Mar 2024 </td>
     <td align="center"> Accepted </td>
@@ -578,7 +578,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 5 </td>
     <td align="left"> Sheltech Pvt. Ltd. </td>
-    <td align="center"> Data Analyst/Researcher (Research, Development & Compliance) </td>
+    <td align="center"> Data Analyst/Researcher (Research, Development and Compliance) </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Rejected </td>
@@ -614,7 +614,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 9 </td>
     <td align="left"> United Nations Industrial Development Organization (UNIDO) </td>
-    <td align="center"> Intern (Decarbonization and Sustainable Energy Talent Pool) </td>
+    <td align="center"> Intern - Decarbonization and Sustainable Energy Talent Pool </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> - </td>
@@ -659,7 +659,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 14 </td>
     <td align="left"> Center for Research Innovation and Development (CRID) </td>
-    <td align="center"> Research Assistant (Intern) </td>
+    <td align="center"> Intern - Research Assistant </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> - </td>
@@ -668,7 +668,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 15 </td>
     <td align="left"> Cynical Ltd. </td>
-    <td align="center"> Intern (Bid Documents/Tender Preparation & Business Development) </td>
+    <td align="center"> Intern - Bid Documents/Tender Preparation and Business Development </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> - </td>
@@ -740,7 +740,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 23 </td>
     <td align="left"> Abul Khair Group (AKG) </td>
-    <td align="center"> Trainee Officer (Leaf Classification) </td>
+    <td align="center"> Trainee Officer - Leaf Classification </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Rejected </td>
@@ -875,7 +875,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 38 </td>
     <td align="left"> COAST Foundation </td>
-    <td align="center"> Environment & RECP Officer </td>
+    <td align="center"> Environment and RECP Officer </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Feb 2025 </td>
     <td align="center"> - </td>
@@ -983,7 +983,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 50 </td>
     <td align="left"> INSEE Cement Bangladesh </td>
-    <td align="center"> Technical Support Intern </td>
+    <td align="center"> Intern – Technical Support </td>
     <td align="center"> Facebook </td>
     <td align="center"> May 2025 </td>
     <td align="center"> Accepted </td>
