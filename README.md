@@ -307,7 +307,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
 
 
 
-<p><strong>Table 4:</strong> Phase-2 (Jul 2024 - Nov 2024) </p>
+<p><strong>Table 4:</strong> Phase-2 (Jul 2024 – Nov 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -333,7 +333,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Research Assistant (RA) </td>
     <td align="center"> MS Teams </td>
     <td align="center"> Jul 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
@@ -342,7 +342,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Junior Environmental Engineer </td>
     <td align="center"> Messenger </td>
     <td align="center"> Jul 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
@@ -360,7 +360,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Research Associate </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Aug 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -387,7 +387,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Research Assistant (RA) </td>
     <td align="center"> Organization website </td>
     <td align="center"> Aug 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -396,7 +396,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Research Intern </td>
     <td align="center"> Organization website </td>
     <td align="center"> Aug 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -414,7 +414,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Research Assistant (RA) </td>
     <td align="center"> In-person interaction </td>
     <td align="center"> Sep 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -455,7 +455,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 16 </td>
-    <td align="left"> MasterCourse: Dokkho Data Science - Cohort 6 </td>
+    <td align="left"> MasterCourse: Dokkho Data Science – Cohort 6 </td>
     <td align="center"> Workshop Attendee </td>
     <td align="center"> Follow-up Email </td>
     <td align="center"> Oct 2024 </td>
@@ -477,22 +477,22 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Civil Engineer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Nov 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
     <td align="center"> 19 </td>
     <td align="left"> Michael Corporation International </td>
-    <td align="center"> Intern - Civil Engineering </td>
+    <td align="center"> Intern – Civil Engineering </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Nov 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
     <td align="center"> 20 </td>
     <td align="left"> Quantanite Bangladesh Ltd. </td>
-    <td align="center"> Project Associate - Operations </td>
+    <td align="center"> Project Associate – Operations </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Rejected </td>
@@ -504,7 +504,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Data Entry Executive (Remote) </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Nov 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -528,7 +528,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
 </table>
 
 
-<p><strong>Table 5:</strong> Phase-3 (Nov 2024 - Mar 2026) </p>
+<p><strong>Table 5:</strong> Phase-3 (Nov 2024 – Mar 2026) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -569,7 +569,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 4 </td>
     <td align="left"> Bangladesh Standards and Testing Institute (BSTI) </td>
-    <td align="center"> Inspector (Metrology) - Metrology Wing </td>
+    <td align="center"> Inspector (Metrology) – Metrology Wing </td>
     <td align="center"> Facebook </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Accepted </td>
@@ -608,16 +608,16 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Assistant Engineer </td>
     <td align="center"> Facebook </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> The company name was not disclosed in the job circular. I correctly guessed the name by looking at the salary range and mail address. Also, later I got to know from one of my friends, who work in that company, that the recruitment probably did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 9 </td>
     <td align="left"> United Nations Industrial Development Organization (UNIDO) </td>
-    <td align="center"> Intern - Decarbonization and Sustainable Energy Talent Pool </td>
+    <td align="center"> Intern – Decarbonization and Sustainable Energy Talent Pool </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -626,7 +626,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Workshop Attendee </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -635,7 +635,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> * Undisclosed * </td>
     <td align="center"> Relative </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -653,31 +653,31 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> WASH Consultant </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
     <td align="center"> 14 </td>
     <td align="left"> Center for Research Innovation and Development (CRID) </td>
-    <td align="center"> Intern - Research Assistant </td>
+    <td align="center"> Intern – Research Assistant </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
     <td align="center"> 15 </td>
     <td align="left"> Cynical Ltd. </td>
-    <td align="center"> Intern - Bid Documents/Tender Preparation and Business Development </td>
+    <td align="center"> Intern – Bid Documents/Tender Preparation and Business Development </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
     <td align="center"> 16 </td>
     <td align="left"> The Royal Scientific Publications </td>
-    <td align="center"> Writer & Editor </td>
+    <td align="center"> Writer and Editor </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Accepted </td>
@@ -689,7 +689,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Content Management Associate </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -698,7 +698,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Trainee Engineer (Civil) </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -713,10 +713,10 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 20 </td>
     <td align="left"> Samata Foundation </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> Father </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -740,7 +740,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 23 </td>
     <td align="left"> Abul Khair Group (AKG) </td>
-    <td align="center"> Trainee Officer - Leaf Classification </td>
+    <td align="center"> Trainee Officer – Leaf Classification </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Rejected </td>
@@ -824,7 +824,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Data Scientist – SME Division </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -833,7 +833,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Learning Resource Assistant (LRA) – Drawing </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -842,7 +842,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Learning Resource Assistant (LRA) – Proofreading and Formatting </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -851,7 +851,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Learning Resource Assistant (LRA) – Typing </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -878,7 +878,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Environment and RECP Officer </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Feb 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -893,10 +893,10 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 40 </td>
     <td align="left"> * A remote job opportunity * </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> MasterCourse </td>
     <td align="center"> Mar 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -923,7 +923,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Data Entry Executive (Remote) </td>
     <td align="center"> Bdjobs.com </td>
     <td align="center"> Mar 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> I applied for this position considering the remote work opportunity and short-term money aspects. But no updates! </td>
   </tr>
   <tr>
@@ -941,7 +941,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Data Analyst </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Mar 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -968,7 +968,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> AI/ML Intern (Remote) </td>
     <td align="center"> MasterCourse </td>
     <td align="center"> May 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1013,7 +1013,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Research Enumerator </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> May 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1022,7 +1022,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Associate – Operations </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jun 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1064,10 +1064,10 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 59 </td>
     <td align="left"> Indetechs Software Ltd. </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> Friend </td>
     <td align="center"> Jul 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1130,13 +1130,13 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Intern </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Aug 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
     <td align="center"> 67 </td>
     <td align="left"> Local Government Engineering Department (LGED) </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> Facebook </td>
     <td align="center"> Sep 2025 </td>
     <td align="center"> Rejected </td>
@@ -1184,7 +1184,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Teller </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Oct 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1202,7 +1202,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Assistant Engineer (Civil) </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Oct 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1211,7 +1211,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Geo-ICT Engineer </td>
     <td align="center"> Facebook </td>
     <td align="center"> Oct 2025 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> The recruitment did not take place. </td>
   </tr>
   <tr>
@@ -1229,7 +1229,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Research Officer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2026 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1238,7 +1238,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Feb 2026 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1247,7 +1247,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Feb 2026 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1274,7 +1274,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Civil Engineer </td>
     <td align="center"> Friend </td>
     <td align="center"> Mar 2026 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1283,7 +1283,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Assistant Engineer (Civil) </td>
     <td align="center"> Facebook </td>
     <td align="center"> Mar 2026 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1310,7 +1310,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Trainee Assistant Officer (TAO) </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Mar 2026 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
@@ -1325,7 +1325,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
 </table>
 
 
-<p><strong>Table 6:</strong> Phase-4 (Apr 2026 - May 2026) </p>
+<p><strong>Table 6:</strong> Phase-4 (Apr 2026 – May 2026) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -1393,7 +1393,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 7 </td>
     <td align="left"> DOHWA Engineering Company Ltd. </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> Facebook </td>
     <td align="center"> Apr 2026 </td>
     <td align="center"> Accepted </td>
