@@ -1,12 +1,11 @@
 # CV Optimization: Insights on Application for Preferred Fields
 
 ## Overview
-This is basically a summary of how I optimized my CV and tailored my information for specific jobs based on previous application outcomes and updates. The journey included insightful experiences involving both acceptances and rejections, as well as cases with no follow-up. Overall, it helped me shape my thought process for structuring my CV before applying to roles aligned with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
+This is basically a summary of how I optimized my CV and tailored my information for specific jobs based on previous application outcomes and updates across every possible sector. This journey included insightful experiences involving both acceptances and rejections, as well as cases with no follow-up. Overall, it helped me shape my thought process for structuring my CV before applying to roles that align with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
 
 
 ## Self-positioning
-Throughout my academic journey upto graduation (2005-2024), I was active in multiple areas, like research, co-curricular and extra-curricular activities, and voluntary works, indicating that I had a prolific profile. So, while creating CVs, the issue that I faced was to adjust things on the basis of the requirements for the position that I was applying for, not the lack of contents that I should put in my CV. Basically, I had everything but I needed to organize them in a concise manner for a successful CV shortlisting.
-
+Throughout my academic journey upto graduation (2005-2024), I was active in multiple areas, like research, co-curricular and extra-curricular activities, and voluntary works, indicating that I had a prolific profile. So, while creating CVs, the issue that I faced was to adjust things on the basis of the requirements for the position that I was applying for, not the lack of contents that I should put in my CV. Basically, I had everything but I needed to organize them in a concise manner for a successful CV shortlisting. Also, I have been a 'generalist' type till date since my childhood, and for this, I always had a knack to explore every possible thing that used to catch my attention. That's why, I applied to various positions during my academic career to see how things go and to try to learn new insights from those experiences. It was overall a journey of self-growth and development, and I am glad that I was being persistent throughout. 
 
 
 
