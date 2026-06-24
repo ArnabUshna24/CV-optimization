@@ -82,7 +82,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 5 </td>
     <td align="left"> - </td>
-    <td align="left"> No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
+    <td align="left"> (i) Recruitment did not take place; (ii) No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
   </tr>
   <tr>
     <td align="center"> 6 </td>
