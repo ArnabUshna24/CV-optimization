@@ -640,7 +640,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 12 </td>
-    <td align="left"> The World Bank </td>
+    <td align="left"> The World Bank, Bangladesh </td>
     <td align="center"> Team Assistant </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
@@ -739,7 +739,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 23 </td>
-    <td align="left"> Abul Khair Group </td>
+    <td align="left"> Abul Khair Group (AKG) </td>
     <td align="center"> Trainee Officer (Leaf Classification) </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Jan 2025 </td>
@@ -991,7 +991,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 51 </td>
-    <td align="left"> Mutual Trust Bank (MTB) PLC </td>
+    <td align="left"> Mutual Trust Bank PLC (MTB) </td>
     <td align="center"> Management Trainee (MT) </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> May 2025 </td>
