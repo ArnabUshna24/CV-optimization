@@ -1524,12 +1524,12 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <tr>
     <td align="center"> 3 </td>
     <td align="left"> Technical </td>
-    <td align="left"> Engineer, Consultant, Intern </td>
+    <td align="left"> Engineer, Consultant, Intern, Officer, Specialist </td>
   </tr>
   <tr>
     <td align="center"> 4 </td>
     <td align="left"> Non-technical </td>
-    <td align="left"> Analyst, Trainee </td>
+    <td align="left"> Analyst, Trainee, Officer, Associate </td>
   </tr>
   <tr>
     <td align="center"> 5 </td>
