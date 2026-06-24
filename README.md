@@ -81,7 +81,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   </tr>
   <tr>
     <td align="center"> 5 </td>
-    <td align="left"> - </td>
+    <td align="left"> – </td>
     <td align="left"> (i) Recruitment did not take place; (ii) No personal network to verify on the CV shortlisting status (more than 4 months since the publication of job circular) </td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
 
 
 
-<p><strong>Table 3:</strong> Phase-1 (Apr 2019 - Jun 2024) </p>
+<p><strong>Table 3:</strong> Phase-1 (Apr 2019 – Jun 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -138,13 +138,13 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Intern </td>
     <td align="center"> Facebook </td>
     <td align="center"> Jun 2022 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 5 </td>
     <td align="left"> Dept. of Civil Engineering, BUET </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> BUET Faculty (Civil) </td>
     <td align="center"> Aug 2022 </td>
     <td align="center"> OK </td>
@@ -165,7 +165,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Research Assistant (RA) </td>
     <td align="center"> BUET Faculty (Civil) </td>
     <td align="center"> Oct 2022 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
@@ -180,19 +180,19 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 9 </td>
     <td align="left"> LafargeHolcim Bangladesh Ltd. (LHBL) </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> Job fair </td>
     <td align="center"> Feb 2023 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 10 </td>
     <td align="left"> British American Tobacco (BAT), Bangladesh </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> Battle of Minds 2023 </td>
     <td align="center"> Jul 2023 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> It was a part of the competition submission. </td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 14 </td>
     <td align="left"> Center for Environmental and Geographic Information Services (CEGIS) </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
     <td align="center"> Rejected </td>
@@ -243,7 +243,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 16 </td>
     <td align="left"> Tetra </td>
-    <td align="center"> Intern - Research and Insight </td>
+    <td align="center"> Intern – Research and Insight </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
     <td align="center"> Rejected </td>
@@ -255,7 +255,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Trainee Engineer </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
@@ -264,7 +264,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
@@ -273,7 +273,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
@@ -288,7 +288,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
   <tr>
     <td align="center"> 21 </td>
     <td align="left"> National Geographic Society & The Nature Conservancy </td>
-    <td align="center"> Extern - Marine and Community Conservation </td>
+    <td align="center"> Extern – Marine and Community Conservation </td>
     <td align="center"> Facebook </td>
     <td align="center"> Mar 2024 </td>
     <td align="center"> Accepted </td>
@@ -300,7 +300,7 @@ Throughout my academic journey upto graduation (2005-2024), I was active in mult
     <td align="center"> Short-term Consultant </td>
     <td align="center"> Facebook </td>
     <td align="center"> Jun 2024 </td>
-    <td align="center"> - </td>
+    <td align="center"> – </td>
     <td align="left"> I could not submit the CV, as the recruiter was unavailable. </td>
   </tr>
 </table>
