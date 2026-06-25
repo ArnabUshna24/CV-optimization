@@ -5,7 +5,7 @@ This is basically a summary of how I optimized my CV and tailored my information
 
 
 ## Self-positioning
-Throughout my academic journey upto graduation (2005-2024), I was active in multiple areas, like research, co-curricular and extra-curricular activities, and voluntary works, indicating that I have a prolific profile. So, I was not worried about the lack of contents to put in my CVs, rather I was concerned about how to present those contents or sections in a concise and organized manner on the basis of job description and requirements.
+Throughout my academic journey upto graduation (2005-2024), I was active in multiple areas, like research, co-curricular and extra-curricular activities, and voluntary works. So, I was not worried about the lack of contents to put in my CVs, rather I was concerned about how to present those contents or sections in a concise and organized manner on the basis of job description and requirements.
 
 I have been a 'generalist' individual till date since my childhood, so I always had a knack to explore every possible thing which used to catch my attention. That's why, I applied to various positions during my academic career to see how things end up and to try to learn new insights from those experiences. Overall, it was a journey of self-growth and development, and I am glad that I was being persistent throughout!
 
