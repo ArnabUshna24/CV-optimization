@@ -51,9 +51,359 @@ I have been a 'generalist' individual till date since my childhood, so I always 
     <td align="left"> I shifted to Dhaka in Apr 2026 to focus solely on finding a job. A big thanks to the previous phase, for which I did not need to think about the job salary or other relevant aspects. As I familiarized myself with the main CV optimization thought-process earlier, I had to only fine-tune my CVs for maximum output. And, I eventually got my first job after one month, which was a pure satisfaction moment for me, considering the whole journey that I had to go through. </td>
   </tr>
 </table>
+
+
+Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here are the deatailed breakdown:
+
+
+
+
+<p><strong>Table 2:</strong> Application Labeling </p>
+<table>
+  <thead>
+    <tr>
+      <th>SI No.</th>
+      <th>Company Type</th>
+      <th>Sub-type(s)</th>
+      <th>Position Type(s)</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <!-- Academic -->
+    <tr>
+      <td rowspan="9" align="center">A</td>
+      <td rowspan="9">Academic</td>
+      <td rowspan="5">University</td>
+      <td>(i) Lecturer (Full-time)</td>
+      <td align="center">A0101</td>
+    </tr>
+    <tr>
+      <td>(ii) Adjunct Lecturer (Part-time)</td>
+      <td align="center">A0102</td>
+    </tr>
+    <tr>
+      <td>(iii) Research Assistant (RA)</td>
+      <td align="center">A0103</td>
+    </tr>
+    <tr>
+      <td>(iv) Engineer</td>
+      <td align="center">A0104</td>
+    </tr>
+    <tr>
+      <td>(v) Office Executive</td>
+      <td align="center">A0105</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Institute</td>
+      <td>(i) Research Assistant (RA)</td>
+      <td align="center">A0201</td>
+    </tr>
+    <tr>
+      <td>(ii) Officer</td>
+      <td align="center">A0202</td>
+    </tr>
+    <tr>
+      <td>(iii) Engineer</td>
+      <td align="center">A0203</td>
+    </tr>
+    <tr>
+      <td>(iv) Office Executive</td>
+      <td align="center">A0204</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <!-- Research -->
+    <tr>
+      <td rowspan="3" align="center">B</td>
+      <td rowspan="3">Research</td>
+      <td rowspan="3">Institute</td>
+      <td>(i) Workshop Attendee</td>
+      <td align="center">B0101</td>
+    </tr>
+    <tr>
+      <td>(ii) Intern</td>
+      <td align="center">B0102</td>
+    </tr>
+    <tr>
+      <td>(iii) Research Enumerator</td>
+      <td align="center">B0103</td>
+    </tr>
+  </tbody>
+  
+  <tbody>
+    <!--Govt. Job -->
+    <tr>
+      <td rowspan="6" align="center">C</td>
+      <td rowspan="6">Govt. Job</td>
+      <td rowspan="2">Tech (Civil)</td>
+      <td>(i) Assistant Engineer</td>
+      <td align="center">C0101</td>
+    </tr>
+    <tr>
+      <td>(ii) Officer</td>
+      <td align="center">C0102</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Tech (Non-civil)</td>
+      <td>(i) Specialist</td>
+      <td align="center">C0201</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Non-tech</td>
+      <td>(i) Inspector</td>
+      <td align="center">C0301</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Bank</td>
+      <td>(i) Assistant Director (AD)</td>
+      <td align="center">C0401</td>
+    </tr>
+    <tr>
+      <td>(ii) Officer</td>
+      <td align="center">C0402</td>
+    </tr>
+  </tbody>
+
+  <tbody>
+    <!--Private Job -->
+    <tr>
+      <td rowspan="31" align="center">D</td>
+      <td rowspan="31">Private Job</td>
+      <td rowspan="5">Private Company (National)</td>
+      <td>(i) Intern</td>
+      <td align="center">D0101</td>
+    </tr>
+    <tr>
+      <td>(ii) Engineer</td>
+      <td align="center">D0102</td>
+    </tr>
+    <tr>
+      <td>(iii) Executive</td>
+      <td align="center">D0103</td>
+    </tr>
+    <tr>
+      <td>(iv) Associate</td>
+      <td align="center">D0104</td>
+    </tr>
+    <tr>
+      <td>(v) Trainee Officer</td>
+      <td align="center">D0105</td>
+    </tr>  
+    <tr>
+      <td rowspan="2">PLC</td>
+      <td>(i) Data Scientist</td>
+      <td align="center">D0201</td>
+    </tr>
+    <tr>
+      <td>(ii) Trainee Officer</td>
+      <td align="center">D0202</td>
+    </tr>   
+    <tr>
+      <td rowspan="2">Institute</td>
+      <td>(i) Analyst</td>
+      <td align="center">D0301</td>
+    </tr>
+    <tr>
+      <td>(ii) Engineer</td>
+      <td align="center">D0302</td>
+    </tr>    
+    <tr>
+      <td rowspan="4">MNC (Civil/Non-civil)</td>
+      <td>(i) Intern</td>
+      <td align="center">D0401</td>
+    </tr>
+    <tr>
+      <td>(ii) Engineer</td>
+      <td align="center">D0402</td>
+    </tr>
+    <tr>
+      <td>(iii) Data Analyst</td>
+      <td align="center">D0403</td>
+    </tr>
+    <tr>
+      <td>(iv) Trainee Officer</td>
+      <td align="center">D0404</td>
+    </tr>
+    <tr>
+      <td rowspan="4">MNC (Tech/IT)</td>
+      <td>(i) Engineer</td>
+      <td align="center">D0501</td>
+    </tr>
+    <tr>
+      <td>(ii) Associate</td>
+      <td align="center">D0502</td>
+    </tr>
+    <tr>
+      <td>(iii) Data Analyst</td>
+      <td align="center">D0503</td>
+    </tr>
+    <tr>
+      <td>(iv) Executive</td>
+      <td align="center">D0504</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Consultancy Firm</td>
+      <td>(i) Intern</td>
+      <td align="center">D0601</td>
+    </tr>
+    <tr>
+      <td>(ii) Engineer</td>
+      <td align="center">D0602</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Real Estate Company</td>
+      <td>(i) Engineer</td>
+      <td align="center">D0701</td>
+    </tr>
+    <tr>
+      <td>(ii) Data Analyst</td>
+      <td align="center">D0702</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Group of Industries</td>
+      <td>(i) Engineer</td>
+      <td align="center">D0801</td>
+    </tr>
+    <tr>
+      <td>(ii) Officer</td>
+      <td align="center">D0802</td>
+    </tr>
+    <tr>
+      <td rowspan="6">Bank</td>
+      <td>(i) Consultant</td>
+      <td align="center">D0901</td>
+    </tr>
+    <tr>
+      <td>(ii) Assistant</td>
+      <td align="center">D0902</td>
+    </tr>
+    <tr>
+      <td>(iii) Trainee Officer</td>
+      <td align="center">D0903</td>
+    </tr>
+    <tr>
+      <td>(iv) Trainee Assistant Manager</td>
+      <td align="center">D0904</td>
+    </tr>
+    <tr>
+      <td>(v) Transaction Service Officer</td>
+      <td align="center">D0905</td>
+    </tr>
+    <tr>
+      <td>(vi) Teller</td>
+      <td align="center">D0906</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Publishers</td>
+      <td>(i) Writer/Editor</td>
+      <td align="center">D1001</td>
+    </tr>
+    <tr>
+      <td>(ii) Researcher</td>
+      <td align="center">D1002</td>
+    </tr>
+  </tbody>
+
+  <tbody>
+    <!--Start-up -->
+    <tr>
+      <td rowspan="5" align="center">E</td>
+      <td rowspan="5">Start-up</td>
+      <td rowspan="2">Engineering Firm</td>
+      <td>(i) Intern</td>
+      <td align="center">E0101</td>
+    </tr>
+    <tr>
+      <td>(ii) Engineer</td>
+      <td align="center">E0102</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Tech/IT</td>
+      <td>(i) Workshop Attendee</td>
+      <td align="center">E0201</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Private Company (National)</td>
+      <td>(i) Assistant</td>
+      <td align="center">E0301</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Initiative</td>
+      <td>(i) Research Mentee</td>
+      <td align="center">E0401</td>
+    </tr>
+  </tbody>
+
+  <tbody>
+    <!--Others -->
+    <tr>
+      <td rowspan="12" align="center">F</td>
+      <td rowspan="12">Others</td>
+      <td rowspan="1">Training School</td>
+      <td>(i) Workshop Attendee</td>
+      <td align="center">F0101</td>
+    </tr>
+    <tr>
+      <td rowspan="1">University Student Chapter</td>
+      <td>(i) Executive</td>
+      <td align="center">F0201</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Ministry</td>
+      <td>(i) Intern</td>
+      <td align="center">F0301</td>
+    </tr>
+    <tr>
+      <td rowspan="2">IGO</td>
+      <td>(i) Intern</td>
+      <td align="center">F0401</td>
+    </tr>
+    <tr>
+      <td>(ii) Consultant</td>
+      <td align="center">F0402</td>
+    </tr>
+    <tr>
+      <td rowspan="2">INGO</td>
+      <td>(i) Research Associate</td>
+      <td align="center">F0501</td>
+    </tr>
+    <tr>
+      <td>(ii) Extern</td>
+      <td align="center">F0502</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Foundation</td>
+      <td>(i) Research Assistant (RA)</td>
+      <td align="center">F0601</td>
+    </tr>
+    <tr>
+      <td>(ii) Officer</td>
+      <td align="center">F0602</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Freelancing</td>
+      <td>(i) Research Assistant (RA)</td>
+      <td align="center">F0701</td>
+    </tr>
+    <tr>
+      <td>(ii) Engineer</td>
+      <td align="center">F0702</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Academic Coursework</td>
+      <td></td>
+      <td align="center">F0800</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
   
 
-<p><strong>Table 2:</strong> Status Classification </p>
+<p><strong>Table 3:</strong> Status Classification </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -95,7 +445,7 @@ I have been a 'generalist' individual till date since my childhood, so I always 
 
 
 
-<p><strong>Table 3:</strong> Phase-1 (Apr 2019 – Jun 2024) </p>
+<p><strong>Table 4:</strong> Phase-1 (Apr 2019 – Jun 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -308,7 +658,7 @@ I have been a 'generalist' individual till date since my childhood, so I always 
 
 
 
-<p><strong>Table 4:</strong> Phase-2 (Jul 2024 – Nov 2024) </p>
+<p><strong>Table 5:</strong> Phase-2 (Jul 2024 – Nov 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -529,7 +879,7 @@ I have been a 'generalist' individual till date since my childhood, so I always 
 </table>
 
 
-<p><strong>Table 5:</strong> Phase-3 (Nov 2024 – Mar 2026) </p>
+<p><strong>Table 6:</strong> Phase-3 (Nov 2024 – Mar 2026) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -1326,7 +1676,7 @@ I have been a 'generalist' individual till date since my childhood, so I always 
 </table>
 
 
-<p><strong>Table 6:</strong> Phase-4 (Apr 2026 – May 2026) </p>
+<p><strong>Table 7:</strong> Phase-4 (Apr 2026 – May 2026) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -1463,79 +1813,6 @@ I have been a 'generalist' individual till date since my childhood, so I always 
     <td align="center"> May 2026 </td>
     <td align="center"> Pending </td>
     <td align="left">  </td>
-  </tr>
-</table>
-
-
-## Personal Analysis
-Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here is the detailed breakdown:
-
-<p><strong>Table 7:</strong> Company/Organization Categorization </p>
-<table border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <th align="center"> SI No. </th>
-    <th align="center"> Main Type </th>
-    <th align="center"> Sub-types </th>
-  </tr>
-  <tr>
-    <td align="center"> 1 </td>
-    <td align="left"> Academic </td>
-    <td align="left"> University, Institute </td>
-  </tr>
-  <tr>
-    <td align="center"> 2 </td>
-    <td align="left"> Research </td>
-    <td align="left"> University, Institute, Startup, Personal </td>
-  </tr>
-  <tr>
-    <td align="center"> 3 </td>
-    <td align="left"> Technical </td>
-    <td align="left"> Engineering Firm, Consultancy Firm, MNC (Civil), MNC (Tech) </td>
-  </tr>
-  <tr>
-    <td align="center"> 4 </td>
-    <td align="left"> Non-technical </td>
-    <td align="left"> MNC (Tech), MNC (Non-tech), Private Company, Bank, Institute (Finance) </td>
-  </tr>
-  <tr>
-    <td align="center"> 5 </td>
-    <td align="left"> Others </td>
-    <td align="left"> Govt. Organization, Private Company, NGO, IGO, INGO </td>
-  </tr>
-</table>
-
-
-<p><strong>Table 8:</strong> Position Categorization </p>
-<table border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <th align="center"> SI No. </th>
-    <th align="center"> Main Type </th>
-    <th align="center"> Sub-types </th>
-  </tr>
-  <tr>
-    <td align="center"> 1 </td>
-    <td align="left"> Faculty </td>
-    <td align="left"> Adjunct/Part-time/Contractual Lecturer </td>
-  </tr>
-  <tr>
-    <td align="center"> 2 </td>
-    <td align="left"> Research </td>
-    <td align="left"> Research Assistant (RA), Research Associate, Research Intern, Research Enumerator, Research Officer </td>
-  </tr>
-  <tr>
-    <td align="center"> 3 </td>
-    <td align="left"> Technical </td>
-    <td align="left"> Engineer, Consultant, Intern, Officer, Specialist </td>
-  </tr>
-  <tr>
-    <td align="center"> 4 </td>
-    <td align="left"> Non-technical </td>
-    <td align="left"> Analyst, Trainee, Officer, Associate </td>
-  </tr>
-  <tr>
-    <td align="center"> 5 </td>
-    <td align="left"> Others </td>
-    <td align="left"> Govt. Employee, Extern </td>
   </tr>
 </table>
 
