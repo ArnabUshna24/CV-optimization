@@ -1,4 +1,4 @@
-# CV Optimization: Insights on Application for Preferred Fields
+# CV Tracker: Optimizing Application Strategy
 
 ## Overview
 This is basically a summary of how I optimized my CV and tailored my information for specific jobs based on previous application outcomes and updates across every possible sector. This journey included insightful experiences involving both acceptances and rejections, as well as cases with no follow-up. Overall, it helped me shape my thought process for structuring my CV before applying to roles that align with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
