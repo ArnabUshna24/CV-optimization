@@ -173,8 +173,8 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <tbody>
     <!--Private Job -->
     <tr>
-      <td rowspan="31" align="center">D</td>
-      <td rowspan="31">Private Job</td>
+      <td rowspan="32" align="center">D</td>
+      <td rowspan="32">Private Job</td>
       <td rowspan="5">Private Company (National)</td>
       <td>(i) Intern</td>
       <td align="center">D0101</td>
@@ -196,16 +196,20 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
       <td align="center">D0105</td>
     </tr>  
     <tr>
-      <td rowspan="2">PLC</td>
-      <td>(i) Data Scientist</td>
+      <td rowspan="3">PLC</td>
+      <td>(i) Engineer </td>
       <td align="center">D0201</td>
     </tr>
     <tr>
-      <td>(ii) Trainee Officer</td>
+      <td>(ii) Data Scientist </td>
       <td align="center">D0202</td>
+    </tr>
+    <tr>
+      <td>(iii) Trainee Officer</td>
+      <td align="center">D0203</td>
     </tr>   
     <tr>
-      <td rowspan="2">Institute</td>
+      <td rowspan="2">Center/Institute</td>
       <td>(i) Analyst</td>
       <td align="center">D0301</td>
     </tr>
@@ -489,7 +493,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <tr>
     <td align="center"> 3 </td>
     <td align="left"> ACI BUET Student Chapter </td>
-    <td align="center"> Student Chapter Executive </td>
+    <td align="center"> Executive </td>
     <td align="center"> F0201 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Oct 2021 </td>
