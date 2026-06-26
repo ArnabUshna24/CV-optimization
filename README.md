@@ -614,7 +614,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 15 </td>
     <td align="left"> BSRM </td>
     <td align="center"> Trainee Engineer </td>
-    <td align="center"> D0102 </td>
+    <td align="center"> D0201 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
     <td align="center"> Rejected </td>
@@ -634,7 +634,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 17 </td>
     <td align="left"> GPH Ispat </td>
     <td align="center"> Trainee Engineer </td>
-    <td align="center"> D0102 </td>
+    <td align="center"> D0201 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
     <td align="center"> – </td>
