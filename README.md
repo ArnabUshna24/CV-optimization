@@ -175,7 +175,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <tr>
       <td rowspan="32" align="center">D</td>
       <td rowspan="32">Private Job</td>
-      <td rowspan="5">Private Company (National)</td>
+      <td rowspan="5">Private Company</td>
       <td>(i) Intern</td>
       <td align="center">D0101</td>
     </tr>
@@ -1205,6 +1205,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 26 </td>
     <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 8 Banks </td>
     <td align="center"> Officer (General) </td>
+    <td align="center"> C0402 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
@@ -1214,6 +1215,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 27 </td>
     <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 11 Banks </td>
     <td align="center"> Senior Officer (General) </td>
+    <td align="center"> C0402 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
@@ -1223,6 +1225,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 28 </td>
     <td align="left"> Bangladesh Inland Water Transport Authority (BIWTA) </td>
     <td align="center"> Assistant Engineer </td>
+    <td align="center"> C0101 </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
@@ -1232,6 +1235,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 29 </td>
     <td align="left"> Augmedix </td>
     <td align="center"> Associate, Data Analyst (RCM) </td>
+    <td align="center"> D0502 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
@@ -1241,6 +1245,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 30 </td>
     <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 6 Banks </td>
     <td align="center"> Officer (Cash) </td>
+    <td align="center"> C0402 </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
@@ -1250,6 +1255,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 31 </td>
     <td align="left"> US-Bangla Airlines </td>
     <td align="center"> Executive – Data Analyst </td>
+    <td align="center"> D0103 </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
@@ -1259,6 +1265,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 32 </td>
     <td align="left"> IDLC Finance PLC </td>
     <td align="center"> Data Scientist – SME Division </td>
+    <td align="center"> D0202 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> – </td>
@@ -1268,6 +1275,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 33 </td>
     <td align="left"> Shikho </td>
     <td align="center"> Learning Resource Assistant (LRA) – Drawing </td>
+    <td align="center"> E0301 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> – </td>
@@ -1277,6 +1285,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 34 </td>
     <td align="left"> Shikho </td>
     <td align="center"> Learning Resource Assistant (LRA) – Proofreading and Formatting </td>
+    <td align="center"> E0301 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> – </td>
@@ -1286,6 +1295,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 35 </td>
     <td align="left"> Shikho </td>
     <td align="center"> Learning Resource Assistant (LRA) – Typing </td>
+    <td align="center"> E0301 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> – </td>
@@ -1295,6 +1305,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 36 </td>
     <td align="left"> Conexess Group </td>
     <td align="center"> Data/Business Intelligence Analyst </td>
+    <td align="center"> D0503 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Feb 2025 </td>
     <td align="center"> Rejected </td>
@@ -1304,6 +1315,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 37 </td>
     <td align="left"> Dept. of Water Resources Engineering, BUET </td>
     <td align="center"> Assistant Experimental Engineer </td>
+    <td align="center"> A0104 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2025 </td>
     <td align="center"> Accepted </td>
@@ -1313,6 +1325,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 38 </td>
     <td align="left"> COAST Foundation </td>
     <td align="center"> Environment and RECP Officer </td>
+    <td align="center"> F0602 </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Feb 2025 </td>
     <td align="center"> – </td>
@@ -1322,6 +1335,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 39 </td>
     <td align="left"> Bangladesh Water Development Board (BWDB) </td>
     <td align="center"> Assistant Engineer (Civil) </td>
+    <td align="center"> C0101 </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Feb 2025 </td>
     <td align="center"> Accepted </td>
@@ -1331,6 +1345,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 40 </td>
     <td align="left"> * A remote job opportunity * </td>
     <td align="center"> – </td>
+    <td align="center"> D0503 </td>
     <td align="center"> MasterCourse </td>
     <td align="center"> Mar 2025 </td>
     <td align="center"> – </td>
@@ -1340,6 +1355,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 41 </td>
     <td align="left"> Pran-RFL Group </td>
     <td align="center"> Trainee Engineer </td>
+    <td align="center"> D0801 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Mar 2025 </td>
     <td align="center"> Rejected </td>
@@ -1349,6 +1365,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 42 </td>
     <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 2 Banks </td>
     <td align="center"> Officer – Rural Credit (O-RC) </td>
+    <td align="center"> C0402 </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Mar 2025 </td>
     <td align="center"> Accepted </td>
@@ -1358,6 +1375,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 43 </td>
     <td align="left"> * An International Company * </td>
     <td align="center"> Data Entry Executive (Remote) </td>
+    <td align="center"> D0504 </td>
     <td align="center"> Bdjobs.com </td>
     <td align="center"> Mar 2025 </td>
     <td align="center"> – </td>
@@ -1367,6 +1385,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 44 </td>
     <td align="left"> Institute of Water Modelling (IWM) </td>
     <td align="center"> Junior Engineer </td>
+    <td align="center"> D0302 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Mar 2025 </td>
     <td align="center"> Rejected </td>
@@ -1376,6 +1395,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 45 </td>
     <td align="left"> Hogarth </td>
     <td align="center"> Data Analyst </td>
+    <td align="center"> D0403 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Mar 2025 </td>
     <td align="center"> – </td>
@@ -1385,6 +1405,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 46 </td>
     <td align="left"> Optimizely </td>
     <td align="center"> Data Analyst </td>
+    <td align="center"> D0503 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Mar 2025 </td>
     <td align="center"> Rejected </td>
@@ -1394,6 +1415,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 47 </td>
     <td align="left"> River Research Institute (RRI) </td>
     <td align="center"> Scientific Officer </td>
+    <td align="center"> C0102 </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Apr 2025 </td>
     <td align="center"> Accepted </td>
@@ -1403,6 +1425,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 48 </td>
     <td align="left"> Artificizen </td>
     <td align="center"> AI/ML Intern (Remote) </td>
+    <td align="center"> D0101 </td>
     <td align="center"> MasterCourse </td>
     <td align="center"> May 2025 </td>
     <td align="center"> – </td>
