@@ -343,8 +343,8 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <tbody>
     <!--Others -->
     <tr>
-      <td rowspan="12" align="center">F</td>
-      <td rowspan="12">Others</td>
+      <td rowspan="13" align="center">F</td>
+      <td rowspan="13">Others</td>
       <td rowspan="1">Training School</td>
       <td>(i) Workshop Attendee</td>
       <td align="center">F0101</td>
@@ -399,6 +399,11 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
       <td rowspan="1">Academic Coursework</td>
       <td></td>
       <td align="center">F0800</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Evaluation</td>
+      <td></td>
+      <td align="center">F0900</td>
     </tr>
   </tbody>
 </table>
