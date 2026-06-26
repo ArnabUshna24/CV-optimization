@@ -339,7 +339,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     </tr>
     <tr>
       <td rowspan="1">Initiative</td>
-      <td>(i) Research Mentee</td>
+      <td>(i) Mentee</td>
       <td align="center">E0401</td>
     </tr>
   </tbody>
@@ -945,6 +945,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <th align="center"> SI No. </th>
     <th align="center"> Company/Institution </th>
     <th align="center"> Position/Role </th>
+    <th align="center"> Code </th>
     <th align="center"> Circular Medium </th>
     <th align="center"> Year </th>
     <th align="center"> Status </th>
@@ -954,6 +955,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 1 </td>
     <td align="left"> Bangladesh Rural Electrification Board (BREB) </td>
     <td align="center"> Assistant GIS Specialist </td>
+    <td align="center"> C0201 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Accepted </td>
@@ -963,6 +965,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 2 </td>
     <td align="left"> Institute of Water Modelling (IWM) </td>
     <td align="center"> GIS Analyst </td>
+    <td align="center"> D0301 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Rejected </td>
@@ -972,6 +975,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 3 </td>
     <td align="left"> International Centre for Climate Change and Adaptation (ICCCAD) </td>
     <td align="center"> Project Intern </td>
+    <td align="center"> B0102 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Rejected </td>
@@ -981,6 +985,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 4 </td>
     <td align="left"> Bangladesh Standards and Testing Institute (BSTI) </td>
     <td align="center"> Inspector (Metrology) – Metrology Wing </td>
+    <td align="center"> C0301 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Accepted </td>
@@ -990,6 +995,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 5 </td>
     <td align="left"> Sheltech Private Ltd. </td>
     <td align="center"> Data Analyst/Researcher (Research, Development and Compliance) </td>
+    <td align="center"> D0702 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Rejected </td>
@@ -999,6 +1005,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 6 </td>
     <td align="left"> Code Nexa </td>
     <td align="center"> Data Analyst </td>
+    <td align="center"> D0503 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Rejected </td>
@@ -1008,6 +1015,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 7 </td>
     <td align="left"> SEBPO </td>
     <td align="center"> Analyst – Data Solutions </td>
+    <td align="center"> D0503 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Rejected </td>
@@ -1017,6 +1025,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 8 </td>
     <td align="left"> Technovative Solutions Ltd. (TVS) </td>
     <td align="center"> Assistant Engineer </td>
+    <td align="center"> D0501 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1026,6 +1035,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 9 </td>
     <td align="left"> United Nations Industrial Development Organization (UNIDO) </td>
     <td align="center"> Intern – Decarbonization and Sustainable Energy Talent Pool </td>
+    <td align="center"> F0401 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1035,6 +1045,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 10 </td>
     <td align="left"> Refonte Learning </td>
     <td align="center"> Workshop Attendee </td>
+    <td align="center"> F0101 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1043,7 +1054,8 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <tr>
     <td align="center"> 11 </td>
     <td align="left"> Samuda Chemical Complex Ltd. (SCCL) </td>
-    <td align="center"> * Undisclosed * </td>
+    <td align="center"> – </td>
+    <td align="center"> D0102 </td>
     <td align="center"> Relative </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1053,6 +1065,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 12 </td>
     <td align="left"> The World Bank, Bangladesh </td>
     <td align="center"> Team Assistant </td>
+    <td align="center"> D0902 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Rejected </td>
@@ -1062,6 +1075,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 13 </td>
     <td align="left"> United Nations Development Programme (UNDP) </td>
     <td align="center"> WASH Consultant </td>
+    <td align="center"> F0402 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1071,6 +1085,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 14 </td>
     <td align="left"> Center for Research Innovation and Development (CRID) </td>
     <td align="center"> Intern – Research Assistant </td>
+    <td align="center"> B0102 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1080,6 +1095,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 15 </td>
     <td align="left"> Cynical Ltd. </td>
     <td align="center"> Intern – Bid Documents/Tender Preparation and Business Development </td>
+    <td align="center"> D0101 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1089,6 +1105,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 16 </td>
     <td align="left"> The Royal Scientific Publications </td>
     <td align="center"> Writer and Editor </td>
+    <td align="center"> D1001 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Accepted </td>
@@ -1098,6 +1115,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 17 </td>
     <td align="left"> Wishkite </td>
     <td align="center"> Content Management Associate </td>
+    <td align="center"> D0104 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1107,6 +1125,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 18 </td>
     <td align="left"> O&M Solutions Bangladesh Ltd. </td>
     <td align="center"> Trainee Engineer (Civil) </td>
+    <td align="center"> D0402 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
@@ -1116,6 +1135,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 19 </td>
     <td align="left"> Bangladeshi Student Research Initiative (BSRI) </td>
     <td align="center"> Research Mentee </td>
+    <td align="center"> E0401 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Accepted </td>
@@ -1125,6 +1145,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 20 </td>
     <td align="left"> Samata Foundation </td>
     <td align="center"> – </td>
+    <td align="center"> F0601 </td>
     <td align="center"> Father </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> – </td>
