@@ -700,6 +700,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <th align="center"> SI No. </th>
     <th align="center"> Company/Institution </th>
     <th align="center"> Position/Role </th>
+    <th align="center"> Code </th>
     <th align="center"> Circular Medium </th>
     <th align="center"> Year </th>
     <th align="center"> Status </th>
@@ -709,6 +710,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 1 </td>
     <td align="left"> Technovative Solutions Ltd. (TVS) </td>
     <td align="center"> Junior Civil Engineer </td>
+    <td align="center"> D0501 </td>
     <td align="center"> Messenger </td>
     <td align="center"> Jul 2024 </td>
     <td align="center"> Rejected </td>
@@ -718,6 +720,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 2 </td>
     <td align="left"> Dept. of Civil Engineering, BUET </td>
     <td align="center"> Research Assistant (RA) </td>
+    <td align="center"> A0103 </td>
     <td align="center"> MS Teams </td>
     <td align="center"> Jul 2024 </td>
     <td align="center"> – </td>
@@ -727,6 +730,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 3 </td>
     <td align="left"> Technovative Solutions Ltd. (TVS) </td>
     <td align="center"> Junior Environmental Engineer </td>
+    <td align="center"> D0501 </td>
     <td align="center"> Messenger </td>
     <td align="center"> Jul 2024 </td>
     <td align="center"> – </td>
@@ -736,6 +740,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 4 </td>
     <td align="left"> Daffodil International University (DIU) </td>
     <td align="center"> Contractual Full-time Lecturer </td>
+    <td align="center"> A0101 </td>
     <td align="center"> Messenger </td>
     <td align="center"> Aug 2024 </td>
     <td align="center"> Rejected </td>
@@ -745,6 +750,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 5 </td>
     <td align="left"> WaterAid </td>
     <td align="center"> Research Associate </td>
+    <td align="center"> F0501 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Aug 2024 </td>
     <td align="center"> – </td>
@@ -754,6 +760,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 6 </td>
     <td align="left"> Esolve International </td>
     <td align="center"> Civil Engineer </td>
+    <td align="center"> D0102 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Aug 2024 </td>
     <td align="center"> Rejected </td>
@@ -763,6 +770,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 7 </td>
     <td align="left"> Dept. of Civil Engineering, BUET </td>
     <td align="center"> Research Assistant (RA) </td>
+    <td align="center"> A0103 </td>
     <td align="center"> Messenger </td>
     <td align="center"> Aug 2024 </td>
     <td align="center"> Rejected </td>
@@ -772,6 +780,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 8 </td>
     <td align="left"> ARCED Foundation </td>
     <td align="center"> Research Assistant (RA) </td>
+    <td align="center"> F0601 </td>
     <td align="center"> Organization website </td>
     <td align="center"> Aug 2024 </td>
     <td align="center"> – </td>
@@ -781,6 +790,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 9 </td>
     <td align="left"> International Centre for Climate Change and Development (ICCCAD) </td>
     <td align="center"> Research Intern </td>
+    <td align="center"> B0102 </td>
     <td align="center"> Organization website </td>
     <td align="center"> Aug 2024 </td>
     <td align="center"> – </td>
@@ -790,6 +800,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 10 </td>
     <td align="left"> HawarIT Ltd. </td>
     <td align="center"> Geo-ICT Engineer </td>
+    <td align="center"> D0501 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Sep 2024 </td>
     <td align="center"> Rejected </td>
@@ -799,6 +810,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 11 </td>
     <td align="left"> Dept. of Chemical Engineering, BUET </td>
     <td align="center"> Research Assistant (RA) </td>
+    <td align="center"> A0103 </td>
     <td align="center"> In-person interaction </td>
     <td align="center"> Sep 2024 </td>
     <td align="center"> – </td>
@@ -808,6 +820,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 12 </td>
     <td align="left"> Dept. of Mechanical Engineering, BUET </td>
     <td align="center"> Research Assistant (RA) </td>
+    <td align="center"> A0103 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Sep 2024 </td>
     <td align="center"> Rejected </td>
@@ -817,6 +830,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 13 </td>
     <td align="left"> Atish Dipankar University of Science and Technology (ADUST) </td>
     <td align="center"> Lecturer </td>
+    <td align="center"> A0101 </td>
     <td align="center"> Messenger </td>
     <td align="center"> Oct 2024 </td>
     <td align="center"> Rejected </td>
@@ -826,6 +840,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 14 </td>
     <td align="left"> HawarIT Ltd. </td>
     <td align="center"> Geo-ICT Engineer </td>
+    <td align="center"> D0501 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Oct 2024 </td>
     <td align="center"> Rejected </td>
@@ -835,6 +850,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 15 </td>
     <td align="left"> Dhaka International University </td>
     <td align="center"> Lecturer </td>
+    <td align="center"> A0101 </td>
     <td align="center"> Messenger </td>
     <td align="center"> Oct 2024 </td>
     <td align="center"> Rejected </td>
@@ -844,6 +860,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 16 </td>
     <td align="left"> MasterCourse: Dokkho Data Science – Cohort 6 </td>
     <td align="center"> Workshop Attendee </td>
+    <td align="center"> E0201 </td>
     <td align="center"> Follow-up Email </td>
     <td align="center"> Oct 2024 </td>
     <td align="center"> Accepted </td>
@@ -853,6 +870,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 17 </td>
     <td align="left"> International Centre for Climate Change and Development (ICCCAD) </td>
     <td align="center"> Project Intern </td>
+    <td align="center"> B0102 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Oct 2024 </td>
     <td align="center"> Rejected </td>
@@ -862,6 +880,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 18 </td>
     <td align="left"> Oriental Real Estate Ltd. </td>
     <td align="center"> Civil Engineer </td>
+    <td align="center"> D0701 </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> – </td>
@@ -871,6 +890,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 19 </td>
     <td align="left"> Michael Corporation International </td>
     <td align="center"> Intern – Civil Engineering </td>
+    <td align="center"> D0101 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> – </td>
@@ -880,6 +900,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 20 </td>
     <td align="left"> Quantanite Bangladesh Ltd. </td>
     <td align="center"> Project Associate – Operations </td>
+    <td align="center"> D0502 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Rejected </td>
@@ -889,6 +910,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 21 </td>
     <td align="left"> Bdjobs.com Ltd. </td>
     <td align="center"> Data Entry Executive (Remote) </td>
+    <td align="center"> D0103 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> – </td>
@@ -898,6 +920,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 22 </td>
     <td align="left"> Engineering Resources International (ERI) </td>
     <td align="center"> Sustainability Engineer </td>
+    <td align="center"> D0602 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Rejected </td>
@@ -907,6 +930,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 23 </td>
     <td align="left"> SINAMM Engineering Ltd. </td>
     <td align="center"> Civil Engineer </td>
+    <td align="center"> D0102 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Rejected </td>
