@@ -1,7 +1,11 @@
 # CV Tracker: Optimizing Application Strategy
 
 ## Overview
-This project is a summary of how I kept track of my CV/resume/information drops on various occasions since my undergrad life at BUET. By doing so, I used to get insights on how to optimize the later CVs/resumes on the basis of the acceptance or rejection from the previous ones. This helped me showcase my portfolio contents in a concise and organized manner to attract the recruiters or relevant authorities. Usually, a CV or resume is shortlisted is two (2) ways, i.e., manually and software (Applicant Tracking System, ATS) check. Manual check only requires a few seconds to shortlist a CV, whereas ATS check goes through a thorough evaluation on the basis of job circular. In most of the cases, manual check is performed. Only some of the reputed multinational companies (MNCs) use ATS check to shortlist a candidate. So, I had to consider these two things while making a CV or resume for job application purpose. This CV tracker logbook helped me develop my thought process for structuring my CV before applying to roles that align with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
+This project is a summary of how I kept track of my CV/resume/information drops on various occasions since my undergrad life at BUET. By doing so, I used to get insights on how to optimize the later CVs/resumes on the basis of the acceptance or rejection from the previous ones. This helped me showcase my portfolio contents in a concise and organized manner to attract the recruiters or relevant authorities. 
+
+Usually, a CV or resume is shortlisted is two (2) ways, i.e., manually and software (Applicant Tracking System, ATS) check. Manual check only requires a few seconds to shortlist a CV, whereas ATS check goes through a thorough evaluation on the basis of job circular. In most of the cases, manual check is performed. Only some of the reputed multinational companies (MNCs) use ATS check to shortlist a candidate. So, I had to consider these two things while making a CV or resume for job application purpose. 
+
+This CV tracker logbook helped me develop my thought process for structuring my CV before applying to roles that align with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
 
 
 ## Self-positioning
