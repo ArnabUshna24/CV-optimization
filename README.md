@@ -142,7 +142,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
       <td rowspan="6" align="center">C</td>
       <td rowspan="6">Govt. Job</td>
       <td rowspan="2">Tech (Civil)</td>
-      <td>(i) Assistant Engineer</td>
+      <td>(i) Engineer</td>
       <td align="center">C0101</td>
     </tr>
     <tr>
@@ -1155,6 +1155,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 21 </td>
     <td align="left"> Senior BUET Alumni </td>
     <td align="center"> Research Assistant (Contractual) </td>
+    <td align="center"> F0701 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
@@ -1164,6 +1165,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 22 </td>
     <td align="left"> Presidency University </td>
     <td align="center"> Adjunct Lecturer </td>
+    <td align="center"> A0102 </td>
     <td align="center"> Friend </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Rejected </td>
@@ -1173,6 +1175,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 23 </td>
     <td align="left"> Abul Khair Group (AKG) </td>
     <td align="center"> Trainee Officer – Leaf Classification </td>
+    <td align="center"> D0802 </td>
     <td align="center"> Bdjobs </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Rejected </td>
@@ -1182,6 +1185,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 24 </td>
     <td align="left"> Panjeree Publications Ltd. </td>
     <td align="center"> Assistant Researcher – Math (English Version) </td>
+    <td align="center"> D1002 </td>
     <td align="center"> Facebook </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
@@ -1191,6 +1195,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> 25 </td>
     <td align="left"> Local Government Engineering Department (LGED) </td>
     <td align="center"> Assistant Engineer (Civil) </td>
+    <td align="center"> C0101 </td>
     <td align="center"> WhatsApp </td>
     <td align="center"> Jan 2025 </td>
     <td align="center"> Accepted </td>
