@@ -1,13 +1,13 @@
 # CV Tracker: Optimizing Application Strategy
 
 ## Overview
-This is basically a summary of how I optimized my CV and tailored my information for specific jobs based on previous application outcomes and updates across every possible sector. This journey included insightful experiences involving both acceptances and rejections, as well as cases with no follow-up. Overall, it helped me shape my thought process for structuring my CV before applying to roles that align with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
+This project is a summary of how I kept track of my CV/resume/information drops on various occasions since my undergrad life at BUET. By doing so, I used to get insights on how to optimize the later CVs/resumes on the basis of the acceptance or rejection from the previous ones. This helped me showcase my portfolio contents in a concise and organized manner to attract the recruiters or relevant authorities. Usually, a CV or resume is shortlisted is two (2) ways, i.e., manually and software (Applicant Tracking System, ATS) check. Manual check only requires a few seconds to shortlist a CV, whereas ATS check goes through a thorough evaluation on the basis of job circular. In most of the cases, manual check is performed. Only some of the reputed multinational companies (MNCs) use ATS check to shortlist a candidate. So, I had to consider these two things while making a CV or resume for job application purpose. This CV tracker logbook helped me develop my thought process for structuring my CV before applying to roles that align with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
 
 
 ## Self-positioning
-Throughout my academic journey upto graduation (2005-2024), I was active in multiple areas, like research, co-curricular and extra-curricular activities, and voluntary works. So, I was not worried about the lack of contents to put in my CVs, rather I was concerned about how to present those contents or sections in a concise and organized manner on the basis of job description and requirements.
+Throughout my academic journey upto graduation (2005-2024), I was active in multiple areas, like research, co-curricular and extra-curricular activities, and voluntary works. So, I was not worried about the contents to put in my CVs, rather I was concerned about how to present those contents or sections on the basis of job description and requirements.
 
-I have been a 'generalist' individual till date since my childhood, so I always had a knack to explore every possible thing which used to catch my attention. That's why, I applied to various positions during my academic career to see how things end up and to try to learn new insights from those experiences. Overall, it was a journey of self-growth and development, and I am glad that I was being persistent throughout!
+I have been a 'generalist' individual till date since my childhood, so I always had a knack to explore every possible thing which used to catch my attention. That's why, I applied to various positions or job roles after my graduation to see how things end up and to try to learn new insights from those experiences. Overall, it was a journey of self-growth and development, and I am glad that I was being persistent throughout!
 
 
 
