@@ -57,7 +57,7 @@ I have been a 'generalist' individual since my childhood, so I always had a knac
 </table>
 
 
-Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here are the detailed breakdown:
+Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here is the detailed breakdown:
 
 
 
@@ -999,7 +999,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Rejected </td>
-    <td align="left"> I did not hear from them actually. But after some month, when I was going through my CV folder, I looked at the specific CV that I submitted for this position. I realized that I had miscalculated the requirements and showcased the aspects of my profile that I was not supposed to show. </td>
+    <td align="left"> I did not hear from them actually. But after a few month, when I was going through my CV folder, I looked at the specific CV that I submitted for this position. I realized that I had miscalculated the requirements and showcased the aspects of my profile that I was not supposed to show. </td>
   </tr>
   <tr>
     <td align="center"> 6 </td>
@@ -1966,7 +1966,6 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> Pending </td>
     <td align="left">  </td>
   </tr>
-  </tr>
    <tr>
     <td align="center"> 14 </td>
     <td align="left"> Uttara Bank PLC </td>
@@ -1982,7 +1981,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 
 ## Visualization
 <div align="center">
-  <img src="https://github.com/ArnabUshna24/CV-tracker/blob/main/job_application_overview.jpg" alt="Job Application"/>
+  <img src="https://raw.githubusercontent.com/ArnabUshna24/CV-tracker/main/job_application_overview.jpg" alt="Job Application"/>
   <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
 </div>
 
