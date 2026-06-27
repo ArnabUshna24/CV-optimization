@@ -2054,6 +2054,17 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
 </div>
 
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/ArnabUshna24/CV-tracker/main/images/applications_vs_shortlisted.jpg" alt="Applications vs Shortlisted (by Phase)" width="600"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/ArnabUshna24/CV-tracker/main/images/applications_shortlisted_company-type.jpg" alt="Applications and Shortlist Rate by Company Type" width="600"/></td>
+  </tr>
+  <tr>
+    <td align="center"> Fig. 2: Phase-wise Shortlisting Status </td>
+    <td align="center"> Fig. 3: Company Type-wise Shortlisting Status </td>
+  </tr>
+</table>
+
 * <strong> Phase-wise Performance: </strong> Shortlist rate grew from 4.3% (Phase 2) to 38.4% (Phase 3), reflecting systematic CV optimization.
   
 * <strong> Application Medium: </strong> LinkedIn had the lowest shortlist rate (9.4%) despite 39 applications – the 2nd highest volume channel.
@@ -2091,5 +2102,3 @@ Q. What was your strategy regarding private banking jobs, like MTO?
 
 Q. What is your future plan?
 - As for now, I want to pursue my higher studies in Environmental Engineering or related fields, preferably in USA.
-
-
