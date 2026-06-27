@@ -1981,7 +1981,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 
 ## Visualization
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArnabUshna24/CV-tracker/main/job_application_overview.jpg" alt="Job Application"/>
+  <img src="https://raw.githubusercontent.com/ArnabUshna24/CV-tracker/main/job_application_overview.png" alt="Job Application"/>
   <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
 </div>
 
