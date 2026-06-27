@@ -1985,15 +1985,15 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
 </div>
 
-* <strong> Phase-wise Performance: </strong> Phase 2 stands out as the lowest point with only a 4.3% shortlist rate across 23 applications. Phase 3 bounced back strongly to 38.4%, which reflects a shift in strategy, sector targeting, and CV refinement.
+* <strong> Phase-wise Performance: </strong> Shortlist rate grew from 4.3% (Phase 2) to 38.4% (Phase 3), reflecting systematic CV optimization.
   
-* <strong> Application Medium: </strong> The most counterintuitive finding is that LinkedIn, which is treated as the "professional" platform, had the lowest shortlist rate at just 9.4% despite being the second most used channel (39 applications). Job Circular app and Facebook both significantly outperformed it.
+* <strong> Application Medium: </strong> LinkedIn had the lowest shortlist rate (9.4%) despite 39 applications — the 2nd highest volume channel.
 
-* <strong> Company Type: </strong> Government organizations had an 81.2% shortlist rate, the highest by a wide margin. This is not surprising given that govt. exams are largely criteria-based rather than CV-impression-based. Private companies and MNC (Tech) firms were the hardest to crack at 10-12%.
+* <strong> Company Type: </strong> Govt. organizations achieved an 81.2% shortlist rate — driven by criteria-based eligibility, not CV impressiveness.
 
 * <strong> Position Type: </strong> Government employee roles showed an 84.6% shortlist rate for the same reason. Research roles were surprisingly low at 7.7% despite the proper CV positioning, which is worth investigating.
   
-* <strong> "No Response" Rate: </strong> More than a third of all applications (35.6%) resulted in silence, indicating a systemic issue in Bangladesh's job market.
+* <strong> "No Response" Rate: </strong> 35.6% of applications received no response, highlighting a systemic recruiter communication gap in Bangladesh.
 
 
 ## Realization
