@@ -1980,6 +1980,75 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 
 
 ## Data Analysis
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="7" style="background-color:#2F5597; color:white; text-align:center; font-size:18px;">
+        PHASE-WISE PERFORMANCE
+      </th>
+    </tr>
+    <tr style="background-color:#D9EAF7;">
+      <th>Phase</th>
+      <th>Period</th>
+      <th>Total</th>
+      <th>Shortlisted</th>
+      <th>Shortlist Rate (%)</th>
+      <th>Rejected</th>
+      <th>No Response</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Phase 1 – Undergrad</td>
+      <td>Apr 2019 – Jun 2024</td>
+      <td align="center">22</td>
+      <td align="center">7</td>
+      <td align="center">31.8</td>
+      <td align="center">9</td>
+      <td align="center">6</td>
+    </tr>
+    <tr>
+      <td>Phase 2 – Warm-up</td>
+      <td>Jul 2024 – Nov 2024</td>
+      <td align="center">23</td>
+      <td align="center">1</td>
+      <td align="center">4.3</td>
+      <td align="center">13</td>
+      <td align="center">9</td>
+    </tr>
+    <tr>
+      <td>Phase 3 – Tuition</td>
+      <td>Nov 2024 – Mar 2026</td>
+      <td align="center">87</td>
+      <td align="center">33</td>
+      <td align="center">37.9</td>
+      <td align="center">21</td>
+      <td align="center">33</td>
+    </tr>
+    <tr>
+      <td>Phase 4 – Unemployment</td>
+      <td>Apr 2026 – May 2026</td>
+      <td align="center">14</td>
+      <td align="center">2</td>
+      <td align="center">14.3</td>
+      <td align="center">0</td>
+      <td align="center">11</td>
+    </tr>
+    <tr style="background-color:#D9EAF7; font-weight:bold;">
+      <td colspan="2">TOTAL</td>
+      <td align="center">146</td>
+      <td align="center">43</td>
+      <td align="center">29.5%</td>
+      <td align="center">43</td>
+      <td align="center">59</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ArnabUshna24/CV-tracker/main/job_application_overview.png" alt="Job Application"/>
   <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
@@ -2022,3 +2091,5 @@ Q. What was your strategy regarding private banking jobs, like MTO?
 
 Q. What is your future plan?
 - As for now, I want to pursue my higher studies in Environmental Engineering or related fields, preferably in USA.
+
+
