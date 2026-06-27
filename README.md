@@ -2012,8 +2012,14 @@ Q. How many CV versions were there?
 Q. What software did you use to make CVs or resumes?
 - MS Word (previously), LaTeX (recently).
 
+Q. Among the job applications that you did, what was your 'dream' job?
+- Working in a consultancy firm or reputed engineering MNCs.
+
 Q. Did you take any preparation for govt. jobs?
 - No. I actually applied for the govt. jobs due to tackle the pressure coming from my family, so that they could not intervene in my plans.
 
 Q. What was your strategy regarding private banking jobs, like MTO?
 - MTO position in the private banks are basically a combination of IBA study preparation and communication skill. My foundation in basic english and math was good from my childhood, so I did not face any difficulty while preparing for the preliminary exams. I had to focus only on presenting myself to the recruiters, that's it!
+
+Q. What is your future plan?
+- As for now, I want to pursue my higher studies in Environmental Engineering or related fields, preferably in USA.
