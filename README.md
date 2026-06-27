@@ -1991,7 +1991,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 
 * <strong> Company Type: </strong> Govt. organizations achieved an 81.2% shortlist rate – driven by criteria-based eligibility, not CV impressiveness.
 
-* <strong> Position Type: </strong> Government employee roles showed an 84.6% shortlist rate for the same reason. Research roles were surprisingly low at 7.7% despite the proper CV positioning, which is worth investigating.
+* <strong> Position Type: </strong> Govt. employee roles showed an 84.6% shortlist rate for the same reason. Research roles were surprisingly low at 7.7% despite the proper CV positioning, which is worth investigating.
   
 * <strong> "No Response" Rate: </strong> 35.6% of applications received no response, highlighting a systemic recruiter communication gap in Bangladesh.
 
