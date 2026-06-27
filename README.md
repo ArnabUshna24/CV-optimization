@@ -1019,7 +1019,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Rejected </td>
-    <td align="left"> It was actually an interesting case. In the salary requirement option in LinkedIn job application, I asked for a industry-standard amount for roles like this. I did not hear from them. Later, after few months, I saw the same job advertisement for the same position. But they updated the job description part, where they 'indirectly' specified salary requirements stating that it is not a big industry-level position. So, this was the first time that I did not get selected for asking a specific salary range. </td>
+    <td align="left"> It was actually an interesting case. In the salary requirement option in LinkedIn job application, I asked for an industry-standard amount for roles like this. I did not hear from them. Later, after few months, I saw the same job advertisement for the same position. But they updated the job description part, where they 'indirectly' specified salary requirements stating that it is not a big industry-level position. So, this was the first time that I did not get selected for asking a specific salary range. </td>
   </tr>
   <tr>
     <td align="center"> 8 </td>
@@ -2016,10 +2016,10 @@ Q. Among the job applications that you did, what was your 'dream' job?
 - Working in a consultancy firm or reputed engineering MNCs.
 
 Q. Did you take any preparation for govt. jobs?
-- No. I actually applied for the govt. jobs due to tackle the pressure coming from my family, so that they could not intervene in my plans.
+- No. I actually applied for the govt. jobs to tackle the pressure coming from my family, so that they could not intervene in my plans.
 
 Q. What was your strategy regarding private banking jobs, like MTO?
-- MTO position in the private banks are basically a combination of IBA study preparation and communication skill. My foundation in basic english and math was good from my childhood, so I did not face any difficulty while preparing for the preliminary exams. I had to focus only on presenting myself to the recruiters, that's it!
+- The MTO recruitment exam for the private banks is basically a combination of IBA study preparation and communication skill. My foundation in basic English and Math was good from my childhood, so I did not face any difficulty while preparing for the preliminary exams. I had to focus only on presenting myself to the recruiters by developing my communication skills.
 
 Q. What is your future plan?
 - As for now, I want to pursue my higher studies in Environmental Engineering or related fields, preferably in USA.
