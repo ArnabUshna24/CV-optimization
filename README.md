@@ -2051,7 +2051,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ArnabUshna24/CV-tracker/main/images/job_application_overview.png" alt="Job Application"/>
-  <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
+  <p> <strong> Fig. 1: </strong> Overview of job applications over the phases </p>
 </div>
 
 <table>
@@ -2060,8 +2060,8 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="center"><img src="https://raw.githubusercontent.com/ArnabUshna24/CV-tracker/main/images/applications_shortlisted_company-type.jpg" alt="Applications and Shortlist Rate by Company Type" width="600"/></td>
   </tr>
   <tr>
-    <td align="center"> Fig. 2: Phase-wise Shortlisting Status </td>
-    <td align="center"> Fig. 3: Company Type-wise Shortlisting Status </td>
+    <td align="center"> <strong> Fig. 2: </strong> Phase-wise shortlisting status </td>
+    <td align="center"> <strong> Fig. 3: </strong> Company type-wise shortlisting status </td>
   </tr>
 </table>
 
