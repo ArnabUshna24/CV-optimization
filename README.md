@@ -1998,7 +1998,9 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 
 
 ## Realization
-Landing a job does not solely depend on academic brilliance, but also on several factors, like organizing CV according to the job specifications, interview performance, and communication skills. After my experimentation phases were complete and I focused on actually finding a job, I was skeptical about how my plans would roll out. Fortunately, I had to wait only for approximately 1.5 months. Planning the phases according to a specific thought and seeing them get implemented gives a sense of surreal satisfaction. And now, as I have landed a job, I wish to continue in the company for a certain period while being serious, rather than being experimental.
+Landing a job does not solely depend on academic brilliance, but also on several factors, like organizing CV according to the job specifications, interview performance, and communication skills. After my experimentation phases were complete and I focused on actually finding a job, I was skeptical about how my plans would roll out. 
+
+Fortunately, I had to wait only for approximately 1.5 months. Planning the phases according to a specific thought and seeing them get implemented gives a sense of surreal satisfaction. And now, as I have landed a job, I wish to continue in the company for a certain period while being serious, rather than being experimental.
 
 Looking forward!
 
