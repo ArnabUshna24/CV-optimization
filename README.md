@@ -3,7 +3,7 @@
 ## Overview
 This project is a summary of how I kept track of my CV/resume/information drops on various occasions since my undergrad life at BUET. By doing so, I used to get insights on how to optimize the later CVs/resumes on the basis of the acceptance or rejection from the previous ones. This helped me showcase my portfolio contents in a concise and organized manner to attract the recruiters or relevant authorities. 
 
-Usually, a CV or resume is shortlisted is two (2) ways, i.e., manually and software (Applicant Tracking System, ATS) check. Manual check only requires a few seconds to shortlist a CV, whereas ATS check goes through a thorough evaluation on the basis of job circular. In most of the cases, manual check is performed. Only some of the reputed multinational companies (MNCs) use ATS check to shortlist a candidate. So, I had to consider these two things while making a CV or resume for job application purpose. 
+Usually, a CV or resume is shortlisted in two (2) ways, i.e., manually and software (Applicant Tracking System, ATS) check. Manual check only requires a few seconds to shortlist a CV, whereas ATS check goes through a thorough evaluation on the basis of job circular. In most of the cases, manual check is performed. Only some of the reputed multinational companies (MNCs) use ATS check to shortlist a candidate. So, I had to consider these two things while making a CV or resume for job application purpose. 
 
 This CV tracker logbook helped me develop my thought process for structuring my CV before applying to roles that align with my interests. It also gave me a better understanding of the current job market and improved my decision-making.
 
@@ -11,7 +11,7 @@ This CV tracker logbook helped me develop my thought process for structuring my 
 ## Self-positioning
 Throughout my academic journey upto graduation (2005-2024), I was active in multiple areas, like research, co-curricular and extra-curricular activities, and voluntary works. So, I was not worried about the contents to put in my CVs, rather I was concerned about how to present those contents or sections on the basis of job description and requirements.
 
-I have been a 'generalist' individual till date since my childhood, so I always had a knack to explore every possible thing which used to catch my attention. That's why, I applied to various positions or job roles after my graduation to see how things end up and to try to learn new insights from those experiences. Overall, it was a journey of self-growth and development, and I am glad that I was being persistent throughout!
+I have been a 'generalist' individual since my childhood, so I always had a knack to explore every possible thing which used to catch my attention. That's why, I applied to various positions or job roles after my graduation to see how things end up and to try to learn new insights from those experiences. Overall, it was a journey of self-growth and development, and I am glad that I remained persistent throughout!
 
 
 
@@ -57,7 +57,7 @@ I have been a 'generalist' individual till date since my childhood, so I always 
 </table>
 
 
-Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here are the deatailed breakdown:
+Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here are the detailed breakdown:
 
 
 
@@ -1982,7 +1982,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 
 ## Visualization
 <div align="center">
-  <img src="https://github.com/ArnabUshna24/CV-optimization/blob/main/job_application_overview.jpg" alt="Job Application"/>
+  <img src="https://github.com/ArnabUshna24/CV-tracker/blob/main/job_application_overview.jpg" alt="Job Application"/>
   <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
 </div>
 
@@ -2000,7 +2000,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
 ## Realization
 Landing a job does not solely depend on academic brilliance, but also on several factors, like organizing CV according to the job specifications, interview performance, and communication skills. After my experimentation phases were complete and I focused on actually finding a job, I was skeptical about how my plans would roll out. 
 
-Fortunately, I had to wait only for approximately 1.5 months. Planning the phases according to a specific thought and seeing them get implemented gives a sense of surreal satisfaction. And now, as I have landed a job, I wish to continue in the company for a certain period while being serious, rather than being experimental.
+Fortunately, I had to wait only for approximately 1.5 months. Planning the phases with a clear intention and seeing them play out gives a sense of surreal satisfaction. And now, as I have landed a job, I wish to continue in the company for a certain period while being serious, rather than being experimental.
 
 Looking forward!
 
