@@ -2092,7 +2092,7 @@ Q. What software did you use to make CVs or resumes?
 - MS Word (previously), LaTeX (recently).
 
 Q. Among the job applications that you did, what was your 'dream' job?
-- Working in a consultancy firm or reputed engineering MNCs.
+- Working in a consultancy firm/reputed engineering MNCs and research-oriented roles.
 
 Q. Did you take any preparation for govt. jobs?
 - No. I actually applied for the govt. jobs to tackle the pressure coming from my family, so that they could not intervene in my plans.
