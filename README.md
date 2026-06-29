@@ -57,8 +57,7 @@ I have been a 'generalist' individual since my childhood, so I always had a knac
 </table>
 
 
-Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here is the detailed breakdown:
-
+Over more than 7 years across 4 phases, I submitted applications on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here is the detailed breakdown:
 
 
 
@@ -973,7 +972,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   </tr>
   <tr>
     <td align="center"> 3 </td>
-    <td align="left"> International Centre for Climate Change and Adaptation (ICCCAD) </td>
+    <td align="left"> International Centre for Climate Change and Development (ICCCAD) </td>
     <td align="center"> Project Intern </td>
     <td align="center"> B0102 </td>
     <td align="center"> LinkedIn </td>
