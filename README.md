@@ -1977,6 +1977,7 @@ Over more than 7 years across 4 phases, I submitted applications on 146 occasion
   </tr>
 </table>
 
+<strong> N.B. </strong> All the application status will be updated by Dec 2026, hopefully.
 
 ## Data Analysis
 
